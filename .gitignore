@@ -1,0 +1,7 @@
+## tanbbang01 Ignore File ##
+
+*.log
+*.bak
+*.class
+*.iml
+.idea/*
